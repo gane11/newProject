@@ -4,3 +4,5 @@ const {environment} = require('./config');
 const bearerToken = require('express-bearer-token');
 const path = require('path');
 const {ValidationError} = require('sequelize');
+
+
